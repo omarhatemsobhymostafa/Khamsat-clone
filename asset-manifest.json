@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/omarhatemsobhymostafa/khamsat-home/static/css/main.478bc7ef.css",
+    "main.js": "/omarhatemsobhymostafa/khamsat-home/static/js/main.d3d96856.js",
+    "static/js/453.a6a97343.chunk.js": "/omarhatemsobhymostafa/khamsat-home/static/js/453.a6a97343.chunk.js",
+    "static/media/photo.jpg": "/omarhatemsobhymostafa/khamsat-home/static/media/photo.597a699cb07284a2616f.jpg",
+    "static/media/logo.png": "/omarhatemsobhymostafa/khamsat-home/static/media/logo.05b8f2fc27c62e3e5d46.png",
+    "static/media/logo.svg": "/omarhatemsobhymostafa/khamsat-home/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/omarhatemsobhymostafa/khamsat-home/index.html",
+    "main.478bc7ef.css.map": "/omarhatemsobhymostafa/khamsat-home/static/css/main.478bc7ef.css.map",
+    "main.d3d96856.js.map": "/omarhatemsobhymostafa/khamsat-home/static/js/main.d3d96856.js.map",
+    "453.a6a97343.chunk.js.map": "/omarhatemsobhymostafa/khamsat-home/static/js/453.a6a97343.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.478bc7ef.css",
+    "static/js/main.d3d96856.js"
+  ]
+}
