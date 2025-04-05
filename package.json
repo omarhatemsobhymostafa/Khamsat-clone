@@ -1,6 +1,6 @@
 {
   "name": "app",
-  "homepage": "https://github.com/omarhatemsobhymostafa/khamsat-home",
+  "homepage": "https://omarhatemsobhymostafa.github.io/my-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -20,6 +20,7 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
+
   },
   "eslintConfig": {
     "extends": [
