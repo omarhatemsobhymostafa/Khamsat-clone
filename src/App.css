@@ -1,0 +1,141 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  direction: rtl;
+}
+#root{
+}
+nav{
+  background-color: #444444;
+  display: flex;
+  justify-content: space-between;
+  height: 3.7rem;
+  padding-inline: 9rem;
+  align-items: center;
+  padding-block: 1rem;
+  overflow: hidden;
+  position: fixed;
+  width: 100%;
+}
+nav img{
+  height: 2.3rem;
+}
+nav div{
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  align-content: center;
+  
+}
+nav div button{
+  background-color: #ffffff00;
+  border: 1px solid #9a9a9a;
+  width: 6.4rem;
+  height: 2.7rem;
+  align-items: center;
+
+  a{
+    text-decoration: none;
+    color: white;
+    font-size: 1rem;
+  }
+  i{
+    font-size: .8rem;
+  }
+}
+
+button i{
+  margin-left: .3rem;
+}
+.opt{
+  color: white;
+  border: 0;
+  height: 3.7rem;
+  width: 3.3rem;
+  font-size: .9rem;
+  text-align: center;
+  i{
+    margin: 0;
+  }
+}
+.opt:hover{
+  background-color: #9a9a9a;
+}
+button{
+  cursor: pointer;
+}
+#menu{
+  i{
+    font-size: 1.3rem;
+  }
+}
+.rank{
+  width: 6.5rem;
+}
+.rank i{
+  margin-left: .3rem;
+}
+.bannar{
+  align-content: center;
+ 
+  padding-inline: 9rem;
+  text-align: center;
+  height: 70vh;
+  background-image: url('./Images/photo.jpg');
+  background-position: center;
+}
+.bannar h2{
+  font-size: 2rem;
+}
+.bannar-container{
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  align-items: center;
+}
+form{
+  background-color: white;
+  width: 50%;
+  border: 1px solid #d8d8da;
+  padding-left: .5rem;
+  margin-top: .5rem;
+
+
+}
+form input{
+  outline: 0;
+  width: 90%;
+  height: 3.7rem;
+  border: 0;
+  padding-inline: 1rem;
+}
+form button{
+  width: 10%;
+  height: 2.7rem;
+  background-color: #52b035;
+  border: 0;
+  color: white;
+  font-size: 1rem;
+}
+form button:hover{
+  background-color: #3f8828;
+
+
+}
+.sug{
+  display: flex;
+  gap: .5rem;
+  width: 50%;
+  justify-content: right;
+  align-items: center;
+}
+.sug-btn{
+  border: 1px solid #9a9a9a;
+  width: 6rem;
+  height: 2.2rem;
+  
+}
+.sug-btn:hover{
+  background-color: #52b035;
+}
